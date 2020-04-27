@@ -13,3 +13,7 @@ git clone https://github.com/MultiValue-University/xdemo-uv-win.git XDEMO
 The command above will take the entire external xdemo-uv-win repository and create a local version on your machine. By adding  XDEMO to the end of the git clone command, as above, you ensure that the created directory will be named XDEMO; otherwise the directory will be named after the repository (xdemo-uv-win).   
 
 **If you are a UniVerse Windows user - this is the repository you should clone to access a baseline Server Account.**
+
+## Samples and examples
+
+* [Configure and use replication](docs/replication/config_replication.md)
